@@ -1,0 +1,13 @@
+# all ignore
+/*
+/.**
+
+# not ignore 
+!/.zshrc
+!/.zshenv
+!/.zprofile
+!/.vimrc
+
+!/README.md
+!.gitignore
+!.gitkeep
